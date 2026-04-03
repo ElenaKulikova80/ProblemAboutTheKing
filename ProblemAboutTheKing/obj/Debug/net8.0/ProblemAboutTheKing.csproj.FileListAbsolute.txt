@@ -1,0 +1,14 @@
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ProblemAboutTheKing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ProblemAboutTheKing.AssemblyInfoInputs.cache
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ProblemAboutTheKing.AssemblyInfo.cs
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ProblemAboutTheKing.csproj.CoreCompileInputs.cache
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\bin\Debug\net8.0\ProblemAboutTheKing.exe
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\bin\Debug\net8.0\ProblemAboutTheKing.deps.json
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\bin\Debug\net8.0\ProblemAboutTheKing.runtimeconfig.json
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\bin\Debug\net8.0\ProblemAboutTheKing.dll
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\bin\Debug\net8.0\ProblemAboutTheKing.pdb
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ProblemAboutTheKing.dll
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\refint\ProblemAboutTheKing.dll
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ProblemAboutTheKing.pdb
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ProblemAboutTheKing.genruntimeconfig.cache
+C:\Users\kulik\source\repos\ProblemAboutTheKing\ProblemAboutTheKing\obj\Debug\net8.0\ref\ProblemAboutTheKing.dll
